@@ -12,9 +12,8 @@ Todo con una interfaz amigable y un diseño sencillo.
 
 ---
 
-## Vista previa  
-
-![Amigo Secreto Screenshot](‪Pictures\amigoSecreto.PNG)  
+## Página web:
+https://challenge-amigo-secreto-esp-main-nu.vercel.app/
 
 ---
 
