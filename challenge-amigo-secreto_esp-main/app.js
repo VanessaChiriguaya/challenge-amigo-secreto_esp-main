@@ -37,7 +37,7 @@ function sortearAmigo() {
 
     const elegido = jugadores[Math.floor(Math.random() * jugadores.length)];
     salida.innerHTML = `<li>El amigo secreto es: <strong>${elegido}</strong></li>`;
-    listaJugadores.innerHTML = ""; // Opcional: limpiar lista después de sortear
+    listaJugadores.innerHTML = ""; // limpiar lista después de sortear
 }
 
 // Reiniciar juego
